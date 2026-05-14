@@ -1,4 +1,4 @@
-
+Enhance Raycast for macOS with ultimate Plugin for Raycast for macOS - screenshot-tools and file-encryption, the #1 plugin. Includes screenshot-tools and file-encryption for a
 
 
 
